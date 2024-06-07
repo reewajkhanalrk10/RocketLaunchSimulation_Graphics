@@ -12,7 +12,7 @@ Displays a 3-second countdown before the rocket launch sequence begins.
 ### Realistic Rocket Launch:
 Animates the rocket launch, including fumes and boosters.
 
-###Starry Sky and Moon:
+### Starry Sky and Moon:
 Creates a realistic outer space environment with stars and a moon.
 
 ### Grass and Launch Pad:
@@ -34,11 +34,13 @@ git clone https://github.com/yourusername/escape.git
 cd escape
 Create a Virtual Environment (Optional but Recommended)
 `
-sh
+
+`sh
 Copy code
 python3 -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 Install Dependencies
+`
 
 sh
 Copy code
