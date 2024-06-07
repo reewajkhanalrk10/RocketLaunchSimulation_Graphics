@@ -28,7 +28,7 @@ GLUT (OpenGL Utility Toolkit)
 ## Installation
 ### Clone the Repository
 
-`sh
+`
 Copy code
 git clone https://github.com/yourusername/escape.git
 cd escape
