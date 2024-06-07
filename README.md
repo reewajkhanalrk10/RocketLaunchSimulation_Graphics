@@ -95,7 +95,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
 
-Email: [rk26071320@student.ku.edu.np](rk26071320@student.ku.edu.np).
+Email: [rk26071320@student.ku.edu.np](https://rk26071320@student.ku.edu.np).
 GitHub: reewajkhanalrk10
 Enjoy the simulation, and happy coding! 🚀
 
