@@ -28,19 +28,19 @@ GLUT (OpenGL Utility Toolkit)
 ## Installation
 ### Clone the Repository
 
-`
+```
 Copy code
 git clone https://github.com/yourusername/escape.git
 cd escape
 Create a Virtual Environment (Optional but Recommended)
-`
+```
 
-`sh
+~~~
 Copy code
 python3 -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 Install Dependencies
-`
+~~~
 
 sh
 Copy code
